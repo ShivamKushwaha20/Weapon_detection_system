@@ -45,7 +45,8 @@ Use the provided inference script to run detection on images or videos:
 ---
 
 ## 📂 Code Repository
-- **GitHub Repo:** [https://github.com/ShivamKushwaha20/Weapon_detection_system](https://github.com/ShivamKushwaha20/Weapon_detection_system)
+- **GitHub Repo**(Model deployment and Flask app):
+  [https://github.com/ShivamKushwaha20/Weapon_detection_system](https://github.com/ShivamKushwaha20/Weapon_detection_system)
 
 ---
 
@@ -64,5 +65,6 @@ Use the provided inference script to run detection on images or videos:
 ---
 
 💡 This repository focuses on the trained model and inference pipeline, facilitating real-time weapon detection for practical applications.
+
 
 
