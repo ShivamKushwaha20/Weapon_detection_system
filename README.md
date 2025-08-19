@@ -31,7 +31,7 @@ The model was trained on a labeled dataset from [**Kaggle**](https://www.kaggle.
 
 ### 4. Run Inference
 Use the provided inference script to run detection on images or videos:
-```python detect.py```
+```python scripts\detect.py```
 
 ---
 
@@ -64,4 +64,5 @@ Use the provided inference script to run detection on images or videos:
 ---
 
 💡 This repository focuses on the trained model and inference pipeline, facilitating real-time weapon detection for practical applications.
+
 
